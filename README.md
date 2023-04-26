@@ -1,7 +1,6 @@
 
 ![Header]( https://github.com/AP-Magic/AP-Magic/blob/main/img/статус.jpg)
 
-## Welcom to AP-Magic 👋
 <!--
 **AP-Magic/AP-Magic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
